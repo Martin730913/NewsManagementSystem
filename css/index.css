@@ -1,0 +1,29 @@
+html{
+	font-size: 10px;
+}
+*{
+	margin: 0rem;
+	padding: 0rem;
+}
+.div1{
+	background: #3385ff;
+	width: 50rem;
+	height: 14rem;
+	margin: 0 auto;
+	margin-top: 10rem;
+	padding-top: 8rem;
+}
+.div2{
+	width: 25rem;
+	height: 4rem;
+	margin:0 auto;
+}
+input{
+	width: 10rem;
+	height: 4rem;
+	cursor: pointer;
+}
+form{
+	width: 10rem;
+	height: 4rem;
+}
